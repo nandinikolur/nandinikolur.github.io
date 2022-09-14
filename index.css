@@ -1,0 +1,58 @@
+.logo-image{
+    width: 50px;
+    height: 46px;
+    border-radius: 50%;
+    padding: 2px;
+    overflow: hidden;
+    margin-top: -6px;
+}
+*{  
+    padding:0px;
+    margin:0;
+    box-sizing:border-box;
+}
+  .navstyling{
+    background-color:rgb(400, 240, 160);
+    border: 1px double black;
+    border-radius:  25px; ;
+  }
+  .p{
+    color:red;
+  }
+  .homestyle{ 
+    background-color: rgb(254, 254, 254);
+    border-radius: 25px;
+    border:1px solid rgb(111, 27, 137);
+    margin-top: 20px;
+  }
+  .p1{
+    background-color: rgb(253, 253, 253);
+    margin-top: 40px;
+  }
+  .footerstyling{
+    background-color: rgb(254, 253, 251);
+    width:100%;
+    min-height:90px;
+    background-color: black;
+    border-radius:20px;
+  }
+  .footerstyling >h1{ background-color: rgb(252, 251, 251);
+    color:white;
+    text-align:center;
+  }
+
+  .socialmedia > a{
+    background-color: rgb(248, 247, 245);
+    color: white;
+  margin-left: 10px;
+  
+  }
+  .projectstyling{  background-color: rgb(254, 253, 252);
+    border: 1px solid rgb(3, 3, 3);
+    min-height: 400px;
+  }
+  .cardbox{ background-color: rgb(253, 251, 250);
+    
+    border: 1px solid green;
+
+  }
